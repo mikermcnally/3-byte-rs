@@ -1,5 +1,5 @@
 [package]
-name = "3_byte_rs"
+name = "sigpa-rs"
 version = "0.0.1"
 authors = ["Mike McNally <mikermcnally@gmail.com>"]
 edition = "2018"
